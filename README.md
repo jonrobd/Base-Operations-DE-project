@@ -1,0 +1,1 @@
+A project based on event data provided by Base Operations. Other than the first cell, none of the other functions were ran. This is more of a framework of how I would read the data, filter, clean and load it.
